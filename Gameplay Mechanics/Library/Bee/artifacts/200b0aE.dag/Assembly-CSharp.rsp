@@ -321,6 +321,7 @@
 "Assets/Scripts/Camera Scripts/RotateCamera.cs"
 "Assets/Scripts/Enemy Scripts/Enemy.cs"
 "Assets/Scripts/Player Scripts/PlayerController.cs"
+"Assets/Scripts/Spawners/SpawnManager.cs"
 -langversion:8.0
 
 /deterministic
